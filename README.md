@@ -202,7 +202,7 @@ Automatización de procesos.
 # 📂 Estructura del proyecto
 
 ```bash
-JARVIS/
+PlataformaInteligenteAutomatizacionIA/
 │
 ├── AIModels/                 # Modelos de IA
 ├── UserServices/             # Servicios de usuario
@@ -233,7 +233,7 @@ JARVIS/
 ## 🚀 Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/jarvis.git
+git clone https://github.com/isairey/PlataformaInteligenteAutomatizacionIA.git
 ```
 
 ---
@@ -241,7 +241,7 @@ git clone https://github.com/usuario/jarvis.git
 ## 📂 Entrar al proyecto
 
 ```bash
-cd jarvis
+cd PlataformaInteligenteAutomatizacionIA
 ```
 
 ---
@@ -359,7 +359,7 @@ Posteriormente crear un Pull Request 🚀
 
 <div align="center">
 
-## JARVIS Open Source Community
+## Isai Reyes - FullStack Developer
 
 Proyecto enfocado en Inteligencia Artificial, Automatización y Productividad mediante tecnologías modernas de software 🚀
 
